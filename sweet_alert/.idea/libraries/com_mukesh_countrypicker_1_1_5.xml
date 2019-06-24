@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mukesh:countrypicker-1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/countrypicker-1.1.5.aar/1c796391fa5f8ee81f4d597617a4c355/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/countrypicker-1.1.5.aar/1c796391fa5f8ee81f4d597617a4c355/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mukesh/countrypicker/1.1.5/765002b322fcca0b79833ab5cd6d3a8557bc7dd6/countrypicker-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
